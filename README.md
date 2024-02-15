@@ -1,6 +1,3 @@
-# JAVA-PROJECT
-# JAVA-PROJECT
-
 READ THIS ENTIRE DATA FOR BETTER UNDERSTANDING THE PROJECT - IT'S A SIMPLE ENGLISH INFORMATION
 
 Technologies required for understanding this project : Java, mySql and java database connection(for connecting java and database).
